@@ -21,7 +21,7 @@ public class StoreNum {
             idx++;
         }
 
-        // Display numbers and sum
+        // Display numbers  and their sum
         System.out.println("Numbers entered:");
         for (int i = 0; i < idx; i++) {
             System.out.print(arr[i] + " ");
